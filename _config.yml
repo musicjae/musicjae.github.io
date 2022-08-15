@@ -1,8 +1,6 @@
-name: Jekyll Themes
+name: David Cheong's Den
 url: http://musicjae.github.io
 description: Insert tagline here
-
-permalink: /themes/:title/
 
 plugins: [jekyll-paginate]
 
